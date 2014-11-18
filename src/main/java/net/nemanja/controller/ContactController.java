@@ -1,3 +1,6 @@
+/*
+ * Comment just to demonstrate pull request.
+ */
 package net.nemanja.controller;
 
 import net.nemanja.model.Contact;
